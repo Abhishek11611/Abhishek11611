@@ -13,6 +13,11 @@ I am a **Full-Stack Java Developer** from **Vikhroli, Mumbai**. I completed my *
 ## 🎯 Career Goals
 I aim to become a **skilled full-stack Java developer**, specializing in **backend development, database management, and building scalable applications**.
 
+🔥 Current Status
+
+🚀 Actively learning and working on new projects!
+
+
 ## 📫 Connect with Me
 - **GitHub:** https://github.com/Abhishek11611
 - **LinkedIn:** https://www.linkedin.com/in/abhishek-gupta-9b7562302/
